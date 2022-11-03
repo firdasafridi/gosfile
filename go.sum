@@ -1,0 +1,4 @@
+github.com/firdasafridi/gocrypt v0.1.0 h1:cPoivDigcuILdNf7daGOcVn/q/Y0kc+6/25VxaCoQAs=
+github.com/firdasafridi/gocrypt v0.1.0/go.mod h1:0O/qD04Wi4Zg4rTU2unBydcMkqdawt272tBE6vwKmtg=
+github.com/pkg/errors v0.9.1 h1:FEBLx1zS214owpjy7qsBeixbURkuhQAwrK5UwLGTwt4=
+github.com/pkg/errors v0.9.1/go.mod h1:bwawxfHBFNV+L2hUp1rHADufV3IMtnDRdf1r5NINEl0=
